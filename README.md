@@ -1,5 +1,7 @@
 #lola recrute un programmeur WEB!
 
+info at lola.lu
+
 **Programmeur Web**
  
 En tant que programmeur Web, tu développeras de nouvelles applications et amélioreras des fonctionnalités existantes, le tout grâce aux logiciels libres. Tu auras aussi la possibilité de travailler sur des mandats variés pouvant aller d'un site vitrine haut en couleur jusqu’au système de gestion intégrée d'une entreprise, le tout sur le Web.
